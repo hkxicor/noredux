@@ -1,0 +1,25 @@
+{
+  "name": "noredux",
+  "version": "1.0.0",
+  "description": "Redux alternative for small projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkxicor/noredux.git"
+  },
+  "keywords": [
+    "noredux",
+    "redux",
+    "redux",
+    "alternative"
+  ],
+  "author": "Himanshu Kushwah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkxicor/noredux/issues"
+  },
+  "homepage": "https://github.com/hkxicor/noredux#readme"
+}
