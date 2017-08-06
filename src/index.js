@@ -1,3 +1,6 @@
+import React from 'react'
+import AppState from './AppState'
+
 module.exports = {
-  Provider: null
+  AppState: AppState,
 }
